@@ -1,6 +1,6 @@
 # opsschool-ci-cd-lesson
 
-Welcome to our CI/CD session.
+Welcome to our CI/CD session.  
 Here you will have instructions on how to create the Jenkins environment.
 And the code you will have to deploy.
 
